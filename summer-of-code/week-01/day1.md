@@ -1,6 +1,7 @@
 # 1 Million Women To Tech
 
 ## Summer of Code
+### Girls can code as well..
 
 ### Week 1 
 
