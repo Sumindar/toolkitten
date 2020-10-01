@@ -43,6 +43,6 @@ world = "o"
 
 # print(name[-7])
 
-my_birth_month = "August"
-my_birth_day = 3
+my_birth_month = "April"
+my_birth_day = 27
 print(my_birth_month + my_birth_day)
