@@ -33,6 +33,8 @@ print('')
 old = 'eight cats'
 print(old)
 print(new)
+old = 'Hi!! This is Sumindar!!'
+print(old)
 
 
 world01 = 'oooooxxoooo'
